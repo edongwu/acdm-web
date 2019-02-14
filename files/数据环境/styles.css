@@ -1,0 +1,43 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/全国机场运行/bg.jpg');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1600px 960px;
+  position:static;
+  left:auto;
+  width:1080px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u9796_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1070px;
+  height:610px;
+}
+#u9796 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:20px;
+  width:1070px;
+  height:610px;
+}
+#u9796_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}

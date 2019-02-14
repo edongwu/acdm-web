@@ -1,0 +1,84 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/全国机场运行/bg.jpg');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1600px 960px;
+  position:static;
+  left:auto;
+  width:1020px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u4902_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:660px;
+  height:414px;
+}
+#u4902 {
+  border-width:0px;
+  position:absolute;
+  left:360px;
+  top:106px;
+  width:660px;
+  height:414px;
+}
+#u4902_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4903_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:170px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-left:0px;
+  border-right:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u4903 {
+  border-width:0px;
+  position:absolute;
+  left:20px;
+  top:76px;
+  width:300px;
+  height:170px;
+}
+#u4903_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
